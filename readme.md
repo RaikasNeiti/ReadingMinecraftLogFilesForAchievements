@@ -1,0 +1,2 @@
+# Minecraft Server Log File Reader For Achievements
+This is a little program that can read your minecraft server log files and writes all the achievements that you have gotten on the server into a file for easy use.
